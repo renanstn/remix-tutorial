@@ -39,6 +39,8 @@ Make sure to deploy the output of `remix build`
 
 ## Tutorial notes
 
+- Link do tutorial: https://remix.run/docs/en/main/start/tutorial
+
 - Um link CSS foi exportado em `root.tsx` utilizando:
 
 ```ts
